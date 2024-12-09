@@ -31,7 +31,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/metanovus/nornikel-rag-2024.git
+   git clone https://github.com/SerginhoDom/RAG_model.git
    cd nornikel-rag-2024
    ```
 
