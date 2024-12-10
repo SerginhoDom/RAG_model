@@ -32,7 +32,7 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/SerginhoDom/RAG_model.git
-   cd nornikel-rag-2024
+   cd RAG_model
    ```
 
 2. Установите зависимости:
